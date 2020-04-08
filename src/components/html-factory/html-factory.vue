@@ -161,7 +161,75 @@
             >
               <tbody>
                 <tr>
-                  <td>social links</td>
+                  <td>
+                    <a
+                      href="https://vk.com/simetragroup"
+                      target="_blank"
+                      style="padding-right:20px;"
+                    >
+                      <img
+                        width="40"
+                        height="40"
+                        src="https://doc.ritm3.ru/_/0A0A0A23016F1D870F96B5393327E64E/1583162112761/assets/images/icons/vk-blue.svg"
+                        alt="vk"
+                      />
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      href="https://www.facebook.com/simetragroup/"
+                      target="_blank"
+                      style="padding-right:20px;"
+                    >
+                      <img
+                        width="42"
+                        height="28"
+                        src="https://doc.ritm3.ru/_/0A0A0A23016F1D870F96B5393327E64E/1583162112761/assets/images/icons/fb-blue.svg"
+                        alt="fb"
+                      />
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      href="https://www.youtube.com/simetragroup"
+                      target="_blank"
+                      style="padding-right:32px;"
+                    >
+                      <img
+                        width="40"
+                        height="40"
+                        src="https://doc.ritm3.ru/_/0A0A0A23016F1D870F96B5393327E64E/1583162112761/assets/images/icons/youtube-blue.svg"
+                        alt="youtube"
+                      />
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      href="https://www.instagram.com/simetragroup/"
+                      target="_blank"
+                      style="padding-right:28px;"
+                    >
+                      <img
+                        width="32"
+                        height="32"
+                        src="https://doc.ritm3.ru/_/0A0A0A23016F1D870F96B5393327E64E/1583162112761/assets/images/icons/inst-blue.svg"
+                        alt="inst"
+                      />
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      href="https://www.linkedin.com/company/simetragroup/"
+                      target="_blank"
+                    >
+                      <img
+                        width="32"
+                        height="32"
+                        src="https://doc.ritm3.ru/_/0A0A0A23016F1D870F96B5393327E64E/1583162112761/assets/images/icons/linkedin-blue.svg"
+                        alt="li"
+                      />
+                    </a>
+                  </td>
                 </tr>
               </tbody>
             </table>
@@ -197,11 +265,22 @@
             >
               <tbody>
                 <tr>
-                  <td>footer</td>
+                  <td>
+                    <center>
+                      <span
+                        style="font-size:28px;line-height:34px;font-style:italic;color:#707070"
+                      >
+                        © 2020 Simetra, Все права защищены.
+                      </span>
+                    </center>
+                  </td>
                 </tr>
               </tbody>
             </table>
           </center>
+          <br />
+          <br />
+          <br />
           <br />
         </td>
       </tr>
